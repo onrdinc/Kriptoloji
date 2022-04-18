@@ -1,0 +1,11 @@
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\bin\Debug\Sistem_Proje.exe.config
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\bin\Debug\Sistem_Proje.exe
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\bin\Debug\Sistem_Proje.pdb
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\obj\Debug\Sistem_Proje.csprojAssemblyReference.cache
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\obj\Debug\Sistem_Proje.Form1.resources
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\obj\Debug\Sistem_Proje.Properties.Resources.resources
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\obj\Debug\Sistem_Proje.csproj.GenerateResource.cache
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\obj\Debug\Sistem_Proje.csproj.CoreCompileInputs.cache
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\obj\Debug\Sistem_Proje.exe
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\obj\Debug\Sistem_Proje.pdb
+c:\users\onuri\source\repos\Sistem_Proje\Sistem_Proje\obj\Debug\Sistem_Proje.gönder.resources
