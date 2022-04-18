@@ -22,14 +22,14 @@ namespace Sistem_Proje
 		{
 			MailMessage mesajım = new MailMessage();
 			SmtpClient istemci = new SmtpClient();//smtp-simple mail transfer protokol
-			istemci.Credentials = new System.Net.NetworkCredential("", "");
+			istemci.Credentials = new System.Net.NetworkCredential("mail", "sifre");
 			istemci.Port = 587;//tr de kullanılan port
 			istemci.Host = "smtp.live.com";
 			//ssl güvenlik yuva katmanı sunucu ile istemci 
 			//arasındaki verileri doğru adrese göderene kadar şifreleme yapar
 			istemci.EnableSsl = true;
 			mesajım.To.Add(textBox1.Text);
-			mesajım.From = new MailAddress("");
+			mesajım.From = new MailAddress("mail");
 			mesajım.Subject = textBox2.Text;
 			mesajım.Body = textBox3.Text;
 			istemci.Send(mesajım);
